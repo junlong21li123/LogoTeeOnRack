@@ -1,0 +1,1 @@
+<model-viewer src="Scaniverse 2024-09-22 161717.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1" exposure="0.91" camera-orbit="-196.4deg 70.43deg 1.619m" field-of-view="25.94deg"> </model-viewer>
